@@ -1,14 +1,15 @@
 ***
 <pre>INSEA                                                       <i>Assembleur</i></pre>
 ***
-        <h1 style="text-align:center">Correction de TD1</h1>
+<h1 style="text-align:center">Correction de TD1</h1>
+<h1 style="display:flex;justify-content:center"></h1>
 
 ***
 <pre>Lundi 23/12/2024                                            Auteur : Mrimi Imad</pre>
 
 
 ## Exercice 1 :
-Transférez le contenu de l'adresse mémoire 0040 à l'adresse 0041.
+Transférez le contenu de l'adresse mémoire **$0040** à l'adresse **$0041**.
 - **Solution Proposée** 
 ```
 LDA #$6A
@@ -26,7 +27,7 @@ END
 
 
 ## Exercice 2 :
-Faites la somme des contenus des adresses mémoire 0003 et 0004 et placez le résultat à l’adresse mémoire
+Faites la somme des contenus des adresses mémoire **$0003** et **$0004** et placez le résultat à l’adresse mémoire
 0005.
 
 - **Solution Proposée** 
@@ -49,7 +50,7 @@ END
 
 
 ## Exercice 3 :
-Décalez le contenu de l'adresse mémoire 0003 par un bit à gauche et placez le résultat à l’adresse 0004. Effacez
+Décalez le contenu de l'adresse mémoire **$0003** par un bit à gauche et placez le résultat à l’adresse **$0004**. Effacez
 le contenu du bit de la position 0.
 - **Solution Proposée** 
 ```
@@ -73,16 +74,16 @@ pas à pas**
 
 ![18](images/18.jpg)
 
-<img src="images/19.jpg"/>
-<img src="images/20.jpg" />
+<img src="images/19.jpg" style="width:160px;height:280px"/>
+<img src="images/20.jpg" style="width:160px;height:280px"/>
 
 ![21](images/21.jpg)
 
    - Second Method
 
 ![7](images/7.jpg)
-<img src="images/8.jpg"/>
-<img src="images/9.jpg"/>
+<img src="images/8.jpg" style="width:160px;height:280px"/>
+<img src="images/9.jpg" style="width:160px;height:280px"/>
 
 ![10](images/10.jpg)
 
@@ -125,6 +126,6 @@ END
 - **Simulation pas à pas**
 
 ![15](images/15.jpg)
-<img src="images/16.jpg" />
+<img src="images/16.jpg" style="width:160px;height:280px"/>
 
 ![17](images/17.jpg)
