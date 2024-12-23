@@ -1,8 +1,7 @@
 ***
 <pre>INSEA                                                       <i>Assembleur</i></pre>
 ***
-<h1 style="display:flex;justify-content:center">Correction TD1</h1>
-
+# Correction TD1
 ***
 <pre>Lundi 23/12/2024                                            Auteur : Mrimi Imad</pre>
 
