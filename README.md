@@ -1,7 +1,6 @@
 ***
 <pre>INSEA                                                       <i>Assembleur</i></pre>
 ***
-<h1 style="text-align:center">Correction de TD1</h1>
 <h1 style="display:flex;justify-content:center"></h1>
 
 ***
