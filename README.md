@@ -1,12 +1,11 @@
 ***
-<pre>INSEA                  <i>Assembleur</i></pre>
+<pre>INSEA                                                       <i>Assembleur</i></pre>
 ***
-<h1 style="text-align:center">Correction de TD1</h1>
+        <h1 style="text-align:center">Correction de TD1</h1>
 
 ***
-<pre>Lundi 23/12/2024       Auteur : Mrimi Imad</pre>
+<pre>Lundi 23/12/2024                                            Auteur : Mrimi Imad</pre>
 
-<style>img{width:160px;height:280px}</style>
 
 ## Exercice 1 :
 Transférez le contenu de l'adresse mémoire 0040 à l'adresse 0041.
@@ -41,8 +40,8 @@ END
 
 
 ![3](images/3.jpg)
-<img src="images/4.jpg"/>
-<img src="images/5.jpg"/>
+<img src="images/4.jpg" style="width:160px;height:280px"/>
+<img src="images/5.jpg" style="width:160px;height:280px"/>
 
 ![6](images/6.jpg)
 
